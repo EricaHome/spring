@@ -14,4 +14,8 @@ public class UserService {
         System.out.println("123");
     }
 
+    public void init() {
+        System.out.println("初始化方法");
+    }
+
 }
